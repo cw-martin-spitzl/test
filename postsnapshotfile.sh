@@ -25,4 +25,4 @@ done
 echo "All file systems frozen"
 SCRIPT
 
-oida
+aender das sctipot
