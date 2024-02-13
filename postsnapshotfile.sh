@@ -25,3 +25,4 @@ done
 echo "All file systems frozen"
 SCRIPT
 
+help
