@@ -24,4 +24,4 @@ for path in $mount_paths; do
 done
 echo "All file systems frozen"
 SCRIPT
-
+dwadwawdaddadada
